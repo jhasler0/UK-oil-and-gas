@@ -1,0 +1,7 @@
+Due to poor weather in Scotland during the main Audit survey period (3-9 December 2010), an additional set of interviews were conducted 7-13 January 2011 to boost the numbers up to representative levels for the region (197 interviews total).
+
+There is a variable called 'week' that holds this information - the main survey was completed in week 48. The additional Scotland interviews in week 101.
+
+To access only the main Audit survey data without the added interviews, choose the 'Select cases' option in SPSS and filter on 'week = 48'.
+
+There is also a different set of weighting data depending on whether you are looking at the main survey data (variable = wts2), or the survey data plus the additional interviews in Scotland (variable = wts).
